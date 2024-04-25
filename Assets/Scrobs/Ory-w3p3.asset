@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b21661acb1ee064fb348e4f9c478b7e, type: 3}
+  m_Name: Ory-w3p3
+  m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: 21300000, guid: 3ac8e9f3fde263e40b0b87fa1380e2b8, type: 3}
+  - {fileID: 21300000, guid: 76139d8d6ff5b7243bdc62029c5d006e, type: 3}
+  - {fileID: 21300000, guid: 6496585cad2fc07489f4d070afbb791f, type: 3}
+  - {fileID: 21300000, guid: 82bc455278c2c7d449ba4336bb5f53b3, type: 3}
+  - {fileID: 21300000, guid: 76a17b58ab2590241b8fa126daa8d339, type: 3}

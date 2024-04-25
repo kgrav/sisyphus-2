@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b21661acb1ee064fb348e4f9c478b7e, type: 3}
+  m_Name: Prompt-DPR
+  m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: 21300000, guid: f020eceb72add0241988c3c3b56b90bc, type: 3}
+  - {fileID: 21300000, guid: 5662703704e1c12438196dd37fc51d0a, type: 3}
+  - {fileID: 21300000, guid: 63c586f08e2959e4f8ecda25ad087141, type: 3}
+  - {fileID: 21300000, guid: a3727066d0b04fc4daf8ec9f736e5c27, type: 3}
+  - {fileID: 21300000, guid: 0825715cf40d8e841b63c8e2eef76198, type: 3}

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/pre-title.unity
+    guid: 0ee840b37aef47a4589eb78b5a33ade2
+  - enabled: 0
+    path: Assets/Scenes/title.unity
+    guid: 24d3030a94bd3c648ad64c93ec602b4d
+  - enabled: 1
+    path: Assets/Scenes/hill0.unity
+    guid: f239122e7eeb2a14e81e94b2b034aff9
+  - enabled: 1
+    path: Assets/Scenes/hill1.unity
+    guid: 6b2b79586e4c9f24da5c43dc48501557
+  - enabled: 1
+    path: Assets/Scenes/hill2.unity
+    guid: ddc88c08b991f7d47ba3e410445b5bcb
+  - enabled: 1
+    path: Assets/Scenes/hill3.unity
+    guid: 1c7b40cdbd674a549849a0903cb66301
+  - enabled: 1
+    path: Assets/Scenes/hill4.unity
+    guid: e6b2c31073f53a544979e58a2b783ddb
+  - enabled: 1
+    path: Assets/Scenes/hill5.unity
+    guid: 88cb26022c0807f44b44ed8a137dad7f
+  - enabled: 1
+    path: Assets/Scenes/hill6.unity
+    guid: d9d597e8ce723ad40b384781ac8bb338
+  - enabled: 1
+    path: Assets/Scenes/hill7.unity
+    guid: 158e6387b3c890048be4d7067fb6a3de
+  - enabled: 1
+    path: Assets/Scenes/hill8.unity
+    guid: b20f91a3a825fab4c8695bd7f9d723bc
+  - enabled: 1
+    path: Assets/Scenes/hill9.unity
+    guid: 3a9a8b842e77d76418857e6346c7dddd
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: ea20916c9210c1c499ce5698918f8565, type: 2}

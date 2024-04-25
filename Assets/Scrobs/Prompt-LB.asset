@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b21661acb1ee064fb348e4f9c478b7e, type: 3}
+  m_Name: Prompt-LB
+  m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: 21300000, guid: 6b614821b402dc148b705d83b86eda09, type: 3}
+  - {fileID: 21300000, guid: 396f8b46279394d4087229ff2d83c4c5, type: 3}
+  - {fileID: 21300000, guid: 098c41d9d79292546b2100ec560b0b9a, type: 3}
+  - {fileID: 21300000, guid: b52bda729421bff40a80a413ce293542, type: 3}
+  - {fileID: 21300000, guid: a3f87fcd86934e441bdbfd2d815b2ddf, type: 3}

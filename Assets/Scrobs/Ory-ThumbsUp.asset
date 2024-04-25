@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b21661acb1ee064fb348e4f9c478b7e, type: 3}
+  m_Name: Ory-ThumbsUp
+  m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: 21300000, guid: 3cda8e25b4459ac4fada869e8d24832e, type: 3}
+  - {fileID: 21300000, guid: 7c3a5f0d52c09d24a8dd1cb7b300b2bf, type: 3}
+  - {fileID: 21300000, guid: 9e7397e89a72e9e429bf918fe78bcdd0, type: 3}
+  - {fileID: 21300000, guid: ef96638d0795c554882e06f2cd53fc61, type: 3}
+  - {fileID: 21300000, guid: 017729b04f673f44197f717eb94b4142, type: 3}

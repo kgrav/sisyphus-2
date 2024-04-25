@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b21661acb1ee064fb348e4f9c478b7e, type: 3}
+  m_Name: APrompt
+  m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: 21300000, guid: 4954d49963ebecc4b8c974ab39cff994, type: 3}
+  - {fileID: 21300000, guid: 107e5892d0e40184b872d2f3ce87a78b, type: 3}
+  - {fileID: 21300000, guid: e701be5abb8ba674fa17d94589e68832, type: 3}
+  - {fileID: 21300000, guid: 8f9cdf77c5743654297132776a6558ca, type: 3}
+  - {fileID: 21300000, guid: bbfe98fe6c3d1f340bf7fe5c2665be41, type: 3}
